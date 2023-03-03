@@ -1,1 +1,2 @@
 # Arduino-Sensor
+Sensor adalah perangkat yang digunakan untuk mendeteksi perubahan besaran fisik seperti tekanan, gaya, besaran listrik, cahaya, gerakan, kelembaban, suhu, kecepatan dan fenomena-fenomena lingkungan lainnya. Setelah mengamati terjadinya perubahan, Input yang terdeteksi tersebut akan dikonversi mejadi Output yang dapat dimengerti oleh manusia baik melalui perangkat sensor itu sendiri ataupun ditransmisikan secara elektronik melalui jaringan untuk ditampilkan atau diolah menjadi informasi yang bermanfaat bagi penggunanya.
