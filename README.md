@@ -1,2 +1,6 @@
 # Arduino-Sensor
 Sensor adalah perangkat yang digunakan untuk mendeteksi perubahan besaran fisik seperti tekanan, gaya, besaran listrik, cahaya, gerakan, kelembaban, suhu, kecepatan dan fenomena-fenomena lingkungan lainnya. Setelah mengamati terjadinya perubahan, Input yang terdeteksi tersebut akan dikonversi mejadi Output yang dapat dimengerti oleh manusia baik melalui perangkat sensor itu sendiri ataupun ditransmisikan secara elektronik melalui jaringan untuk ditampilkan atau diolah menjadi informasi yang bermanfaat bagi penggunanya.
+# Sensor Cahaya LDR
+Sensor Cahaya Light Dependent Resistor (LDR) adalah suatu bentuk komponen yang mempunyai perubahan resistansi yang besarnya tergantung pada cahaya. Cara kerja dari sensor ini adalah mengubah energi dari foton menjadi el- ektron, umumnya satu foton dapat membangkitkan satu elektron.
+# Sensor Suara (Sound)
+Sensor suara merupakan module sensor yang mensensing besaran suara untuk diubah menjadi besaran listrik yang akan dioleh mikrokontroler. Module ini bekerja berdasarkan prinsip kekuatan gelombang suara yang masuk. Dimana gelombang suara tersebut mengenai membran sensor, yang berefek pada bergetarnya membran sensor. Dan pada membran tersebut terdapat kumparan kecil yang dapat menghasilkan besaran listrik.
